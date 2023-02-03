@@ -1,0 +1,3 @@
+/home/jimay/delivery/tek2/B-YEP-410-PAR-4-1-zappy-jimy.xu/GRAPHICAL/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/jimay/delivery/tek2/B-YEP-410-PAR-4-1-zappy-jimy.xu/GRAPHICAL/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/jimay/delivery/tek2/B-YEP-410-PAR-4-1-zappy-jimy.xu/GRAPHICAL/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
